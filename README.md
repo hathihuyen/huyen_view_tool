@@ -20,7 +20,9 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+```ruby
+HuyenViewTool::Renderer.copyright 'Huyen Ha', 'All rights reserved'
+```
 
 ## Development
 
